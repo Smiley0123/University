@@ -508,6 +508,11 @@ h3 {
     .testimonial h1{
         font-size: 25px;
     }
+    .review-col img {
+
+        height: 15vh;
+
+    }
     /* #next{
         right: auto;
     } */
