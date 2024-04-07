@@ -7,7 +7,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('/image/homebg.jpg');
+    background-image: linear-gradient(rgba(129, 252, 248, 0.5), rgba(158, 172, 252, 0.5)), url('/image/homebg.jpg');
     background-position: center;
     background-size: cover;
 
@@ -53,7 +53,7 @@ nav img {
 
 .nav-div ul li a {
 
-    color: #fff;
+    color:#999;
     text-decoration: none;
     font-size: 20px;
 
@@ -507,6 +507,11 @@ h3 {
     }
     .testimonial h1{
         font-size: 25px;
+    }
+    .review-col img {
+
+        height: 15vh;
+
     }
     /* #next{
         right: auto;
